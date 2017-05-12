@@ -13,7 +13,7 @@
         <Label Text="Base de datos para Inventario" 
                FontSize="16"
                TextColor="White"
-               Opacity="0.5"
+               HorizontalOptions="Center"
                />
         
     </StackLayout>
